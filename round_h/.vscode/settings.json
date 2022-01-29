@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "valarray": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp"
+    }
+}
